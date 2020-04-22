@@ -1,0 +1,19 @@
+body {
+
+  align-items: center;
+  font-family: 'Yeseva One', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+    font-size: 25px;
+    text-align: center;
+
+}
+
+*{
+  margin: 7px;
+  padding: 7px;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
